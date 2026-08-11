@@ -1,4 +1,4 @@
-# Olá mundo! Eu sou Arthur 👋
+# Olá!! Eu sou Arthur 👋
 
 🎓 Técnico em Recursos Humanos
 💻 Estudando Desenvolvimento de Software  
